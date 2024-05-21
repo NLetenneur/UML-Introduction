@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T13:27:13.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="npgFuCGvpSkoWAvSoRHh" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-21T13:27:32.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="HJIXRlzAFgC8tlO91Use" version="24.4.4" type="github" pages="2">
   <diagram name="Page-1" id="2dfKzx4CkApM4iDOstKD">
     <mxGraphModel dx="905" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,8 +212,18 @@
         <mxCell id="FMdF54G6OBiftrcyoYFa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uHbmh2XFX5p6izMiNjLc-2" source="FMdF54G6OBiftrcyoYFa-2" target="uHbmh2XFX5p6izMiNjLc-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FMdF54G6OBiftrcyoYFa-32" value="ok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FMdF54G6OBiftrcyoYFa-5">
+          <mxGeometry x="-0.1224" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FMdF54G6OBiftrcyoYFa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uHbmh2XFX5p6izMiNjLc-2" source="FMdF54G6OBiftrcyoYFa-2" target="FMdF54G6OBiftrcyoYFa-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMdF54G6OBiftrcyoYFa-33" value="limite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FMdF54G6OBiftrcyoYFa-8">
+          <mxGeometry x="-0.4583" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FMdF54G6OBiftrcyoYFa-2" value="&lt;div&gt;verif&amp;nbsp;&lt;/div&gt;&lt;div&gt;réservoir&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="uHbmh2XFX5p6izMiNjLc-2">
           <mxGeometry x="265" y="440" width="80" height="80" as="geometry" />
