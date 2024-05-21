@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T13:27:32.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="HJIXRlzAFgC8tlO91Use" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-21T15:02:32.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="mtZFy0MlOK2iKX8MOLyq" version="24.4.4" type="github" pages="3">
   <diagram name="Page-1" id="2dfKzx4CkApM4iDOstKD">
     <mxGraphModel dx="905" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copie de Page-1" id="JRLMUZFyyBZ4d0l0TDa4">
+  <diagram name="Page-2" id="JRLMUZFyyBZ4d0l0TDa4">
     <mxGraphModel dx="1395" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uHbmh2XFX5p6izMiNjLc-0" />
@@ -292,6 +292,71 @@
         </mxCell>
         <mxCell id="FMdF54G6OBiftrcyoYFa-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="uHbmh2XFX5p6izMiNjLc-2">
           <mxGeometry x="290" y="980" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7jJtWCnhNkoYgklSZFXC" name="Page-3">
+    <mxGraphModel dx="674" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-1" value="&lt;div&gt;Client&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="330" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-6" value="choisir un carburant C1 " style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mlXb_yWS92XtMA2DkCIM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="sourcePoint" />
+            <mxPoint x="330" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="350" as="sourcePoint" />
+            <mxPoint x="120" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="200" as="sourcePoint" />
+            <mxPoint x="540" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-12" value="vérifier réservoir" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mlXb_yWS92XtMA2DkCIM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-14" value="réservoir C1" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="mlXb_yWS92XtMA2DkCIM-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="210" as="sourcePoint" />
+            <mxPoint x="550.1700000000002" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="mlXb_yWS92XtMA2DkCIM-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="330" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-20" value="réservoir &amp;gt; limite" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mlXb_yWS92XtMA2DkCIM-22" value="pompe automatique" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
