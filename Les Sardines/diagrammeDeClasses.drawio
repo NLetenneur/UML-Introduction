@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T15:46:25.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="7WK2BGbGxbvgfevSoAob" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T15:47:46.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="PAfF4vy1eSVt-4HCVQMK" version="24.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3163" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,15 +156,11 @@
         <mxCell id="alwf_3piKCEME6LCT37Y-37" value="0..1" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-80" y="538" as="geometry" />
         </mxCell>
-        <mxCell id="alwf_3piKCEME6LCT37Y-38" value="" style="endArrow=open;shadow=0;strokeWidth=1;rounded=0;curved=0;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="alwf_3piKCEME6LCT37Y-59">
+        <mxCell id="alwf_3piKCEME6LCT37Y-38" value="" style="endArrow=none;shadow=0;strokeWidth=1;rounded=0;endFill=0;elbow=vertical;entryX=0;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="alwf_3piKCEME6LCT37Y-59">
           <mxGeometry x="0.5" y="41" relative="1" as="geometry">
             <mxPoint x="-80" y="540" as="sourcePoint" />
             <mxPoint x="190" y="650" as="targetPoint" />
             <mxPoint x="-40" y="32" as="offset" />
-            <Array as="points">
-              <mxPoint x="30" y="560" />
-              <mxPoint x="80" y="566" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-42" value="0..1" style="resizable=0;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -388,14 +384,14 @@
         <mxCell id="alwf_3piKCEME6LCT37Y-117" value="concerne" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="258" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="alwf_3piKCEME6LCT37Y-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.131;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" target="alwf_3piKCEME6LCT37Y-111">
+        <mxCell id="alwf_3piKCEME6LCT37Y-118" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-270" y="320" as="sourcePoint" />
-            <mxPoint x="111" y="168" as="targetPoint" />
+            <mxPoint x="-270" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-111" value="rédige l&#39;appréciation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-305" y="220" width="130" height="30" as="geometry" />
+          <mxGeometry x="-305" y="243" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-119" value="Le nom de la classe comporte l&#39;année. ex: 6A2024" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="490" width="80" height="148" as="geometry" />
