@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T15:44:19.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="bKGrWd7W78worH4xhU1m" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T15:45:29.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="nYNJZBuShrSC6CH6-k5O" version="24.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3341" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4261" dy="2474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -397,7 +397,7 @@
         <mxCell id="alwf_3piKCEME6LCT37Y-111" value="rédige l&#39;appréciation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-305" y="220" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="alwf_3piKCEME6LCT37Y-119" value="Le nom de la classe comporte l&#39;année. ex: CM2A2024" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="alwf_3piKCEME6LCT37Y-119" value="Le nom de la classe comporte l&#39;année. ex: 6A2024" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="490" width="80" height="148" as="geometry" />
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="alwf_3piKCEME6LCT37Y-60" target="alwf_3piKCEME6LCT37Y-119">
