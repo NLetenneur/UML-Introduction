@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T13:08:17.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="8RJ-IKXjnp0tsXhM1vA3" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T13:11:59.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="3ThKvVnZ-9bt-Za1qjgN" version="24.4.8" type="github">
   <diagram name="Page-1" id="mLB9qFqiXMpKBvjP-2ia">
     <mxGraphModel dx="1687" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,10 +111,16 @@
         <mxCell id="P9efAt4MCEF4j8KZyVcw-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="210" y="780" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P9efAt4MCEF4j8KZyVcw-37" value="Incrémenter sur l&#39;identifiant" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="270" y="360" width="130" height="80" as="geometry" />
+        <mxCell id="P9efAt4MCEF4j8KZyVcw-37" value="Incrémenter sur l&#39;identifiant" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="381" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P9efAt4MCEF4j8KZyVcw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="P9efAt4MCEF4j8KZyVcw-19" target="P9efAt4MCEF4j8KZyVcw-37">
+        <mxCell id="P9efAt4MCEF4j8KZyVcw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="P9efAt4MCEF4j8KZyVcw-19" target="P9efAt4MCEF4j8KZyVcw-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P9efAt4MCEF4j8KZyVcw-40" value="&lt;div&gt;Signaler que&amp;nbsp;&lt;/div&gt;&lt;div&gt;ce message est&amp;nbsp;&lt;/div&gt;&lt;div&gt;une faille de sécurité&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="275" y="170" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P9efAt4MCEF4j8KZyVcw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="P9efAt4MCEF4j8KZyVcw-29" target="P9efAt4MCEF4j8KZyVcw-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
