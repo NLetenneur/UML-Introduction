@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T13:18:44.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="RNKjDfqylzxRDF9z7w_R" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T13:20:23.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="jMiIohLEExRP3rZt75vx" version="24.4.8" type="github">
   <diagram name="Page-1" id="mLB9qFqiXMpKBvjP-2ia">
     <mxGraphModel dx="1687" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P9efAt4MCEF4j8KZyVcw-29" value="&lt;p&gt;Afficher message&lt;/p&gt;&lt;p&gt;« Votre mot de passe est incorrect. Veuillez vérifier vos informations de connexion. » &lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="250" width="200" height="90" as="geometry" />
+          <mxGeometry x="130" y="240" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P9efAt4MCEF4j8KZyVcw-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="289" y="790" width="30" height="30" as="geometry" />
