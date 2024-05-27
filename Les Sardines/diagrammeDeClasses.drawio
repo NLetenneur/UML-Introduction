@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T15:33:55.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="uE_2bLs6ZDeKU_TTfh2P" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T15:39:06.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="5e2hhB5dPd7BYe2bmv3N" version="24.4.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3088" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3341" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -317,7 +317,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-90" value="bulletin" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-190" y="70" width="160" height="124" as="geometry">
+          <mxGeometry x="-240" y="91" width="160" height="124" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -357,7 +357,7 @@
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-105" value="0..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-30" y="138" width="40" height="30" as="geometry" />
+          <mxGeometry x="-80" y="160" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-106" value="0..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="96" width="40" height="30" as="geometry" />
@@ -377,7 +377,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-112" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-300" y="298" width="40" height="30" as="geometry" />
+          <mxGeometry x="-260" y="288" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-114" value="0..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="190" width="40" height="30" as="geometry" />
@@ -395,7 +395,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-111" value="rédige l&#39;appréciation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-290" y="220" width="130" height="30" as="geometry" />
+          <mxGeometry x="-305" y="220" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="alwf_3piKCEME6LCT37Y-119" value="Le nom de la classe comporte l&#39;année. ex: CM2A2024" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="490" width="80" height="148" as="geometry" />
